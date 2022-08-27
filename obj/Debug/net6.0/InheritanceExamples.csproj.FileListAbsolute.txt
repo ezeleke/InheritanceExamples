@@ -1,0 +1,15 @@
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.exe
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.deps.json
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.runtimeconfig.json
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.dll
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.pdb
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.csproj.AssemblyReference.cache
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.AssemblyInfoInputs.cache
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.AssemblyInfo.cs
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.csproj.CoreCompileInputs.cache
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.dll
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\refint\InheritanceExamples.dll
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.pdb
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.genruntimeconfig.cache
+C:\Users\Ebenezer\repos\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\ref\InheritanceExamples.dll
